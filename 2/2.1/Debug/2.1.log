@@ -1,0 +1,6 @@
+﻿  2.1.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\s.prata\2.1\2.1.cpp(7): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\patry\desktop\programowanie\kursy\c++\s.prata\2.1\2.1.cpp(8): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\patry\desktop\programowanie\kursy\c++\s.prata\2.1\2.1.cpp(21): warning C4244: "return": konwersja z "float" do "int", możliwa utrata danych
+c:\users\patry\desktop\programowanie\kursy\c++\s.prata\2.1\2.1.cpp(25): warning C4244: "return": konwersja z "float" do "int", możliwa utrata danych
+  2.1.vcxproj -> C:\Users\patry\Desktop\Programowanie\Kursy\C++\S.Prata\2.1\Debug\2.1.exe

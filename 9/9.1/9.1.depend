@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1531232682 source:c:\users\patry\desktop\programowanie\kursy\c++\s.prata\9\9.1\golf.cpp
+	<iostream>
+	"Golf.h"
+
+1531232594 c:\users\patry\desktop\programowanie\kursy\c++\s.prata\9\9.1\golf.h
+
+1531233298 source:c:\users\patry\desktop\programowanie\kursy\c++\s.prata\9\9.1\main.cpp
+	<iostream>
+	"Golf.h"
+

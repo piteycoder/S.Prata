@@ -1,0 +1,3 @@
+﻿  1.6.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\s.prata\1.6\1.6.cpp(9): warning C4244: "return": konwersja z "double" do "unsigned int", możliwa utrata danych
+  1.6.vcxproj -> C:\Users\patry\Desktop\Programowanie\Kursy\C++\S.Prata\1.6\Debug\1.6.exe

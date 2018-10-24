@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  1.5.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\s.prata\1.5\1.5.cpp(9): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  1.5.vcxproj -> C:\Users\patry\Desktop\Programowanie\Kursy\C++\S.Prata\1.5\Debug\1.5.exe

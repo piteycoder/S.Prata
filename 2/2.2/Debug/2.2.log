@@ -1,0 +1,4 @@
+﻿  2.2.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\s.prata\2.2\2.2.cpp(6): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\patry\desktop\programowanie\kursy\c++\s.prata\2.2\2.2.cpp(7): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  2.2.vcxproj -> C:\Users\patry\Desktop\Programowanie\Kursy\C++\S.Prata\2.2\Debug\2.2.exe

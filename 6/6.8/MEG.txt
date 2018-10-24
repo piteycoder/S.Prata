@@ -1,0 +1,5 @@
+Programy i programowanie zaczynaj¹ byæ naprawdê ciekawe, kiedy mamy do dyspozycji instrukcje
+umo¿liwiaj¹ce realizacjê ró¿nych, alternatywnych dzia³añ. C++ dysponuje instrukcjami if, if else oraz switch, które umo¿liwiaj¹ dokonywanie wyborów. Instrukcja if pozwala programowi na warunkowe
+wykonanie instrukcji lub bloku instrukcji - instrukcja (lub blok instrukcji) jest wykonywana, o ile
+spe³niony jest pewien warunek. Instrukcja if else umo¿liwia wykonanie jednej z dwóch instrukcji lub bloków. W razie potrzeby mo¿na do³¹czaæ kolejne instrukcje if else, aby obs³ugiwaæ wiêcej mo¿liwoœci wyboru.
+Instrukcja switch przekierowuje program do jednego z wielu mo¿liwych przypadków.

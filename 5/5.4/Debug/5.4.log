@@ -1,0 +1,4 @@
+﻿  5.4.cpp
+c:\users\patry\desktop\programowanie\kursy\c++\s.prata\5.4\5.4.cpp(12): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\patry\desktop\programowanie\kursy\c++\s.prata\5.4\5.4.cpp(13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  5.4.vcxproj -> C:\Users\patry\Desktop\Programowanie\Kursy\C++\S.Prata\5.4\Debug\5.4.exe
